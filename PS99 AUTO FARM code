@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Best-Roblox-Scripts/PS99-AUTO-FARM-source-code/main/source%20code?token=GHSAT0AAAAAACMBUFMIRYO52UZWNLQ5PN5QZMLBRVQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Best-Roblox-Scripts/PS99-AUTO-FARM-source-code/main/source%20code?token=GHSAT0AAAAAACMBUFMIRYO52UZWNLQ5PN5QZMLBRVQ", true))()
